@@ -4,4 +4,4 @@
 
 https://acquati.github.io/curriculo.github.io/
 
-![alt text](https://github.com/Acquati/curriculo.github.io/blob/master/images/curriculo.png)
+![alt text](https://github.com/Acquati/curriculo.github.io/blob/master/images/curriculo-leandro-acquati.png)
