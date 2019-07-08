@@ -2,3 +2,14 @@ a {
 	text-decoration: underline;
 	text-decoration-color: #0056b3;
 }
+
+@media print {
+	ul li, h1, h2, p {
+		color: black;
+	}
+
+	a {
+		text-decoration: underline;
+		text-decoration-color: #78E2A0 !important;
+	}
+}
