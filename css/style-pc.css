@@ -1,15 +1,44 @@
 a {
-	text-decoration: underline;
-	text-decoration-color: #0056b3;
+  text-decoration: underline;
+  text-decoration-color: #78e2a0;
 }
 
 @media print {
-	ul li, h1, h2, p {
-		color: black;
-	}
+  ul
+    li,
+  h1,
+  h2,
+  p {
+    color: black;
+  }
 
-	a {
-		text-decoration: underline;
-		text-decoration-color: #78E2A0 !important;
-	}
+  a {
+    text-decoration: underline;
+    text-decoration-color: #78e2a0 !important;
+  }
+}
+
+.post-cover {
+  border-radius: 5px;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-container {
+  margin: 0
+    auto;
+  width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  margin: 0
+    auto;
+  justify-content: space-between;
 }
